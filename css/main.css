@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(rgba(237, 225, 225, 0.4), rgba(237, 225, 225, 0.4)), url(/images/cover.webp);
+    background: linear-gradient(rgba(237, 225, 225, 0.4), rgba(237, 225, 225, 0.4)), url(/images/cover.png);
     background-size: cover;
     background-position: center;
 }
