@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(rgba(237, 225, 225, 0.4), rgba(237, 225, 225, 0.4)), url(/images/cover.webp);
+    background-size: cover;
+    background-position: center;
+}
+
+#quotes {
+    margin: 100px;
+}
+
+.quote {
+    padding: 60px;
+}
+
+#quotes h1 {
+    font-size: 80px;
+    font-family: Impact;
+}
+
+#quotes .btn {
+    background-color: #E37383;
+}
